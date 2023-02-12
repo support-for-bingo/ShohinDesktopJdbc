@@ -4,7 +4,7 @@ ___
 ```
 統合開発環境：JetBrains IntelliJ IDEA 2022.3  
 言語：Java 17  
-デベロッパーSDK：Oracle JDK 17.0.6  
+開発SDK：Oracle JDK 17.0.6  
 デスクトップ：Swing  
 データベース：Microsoft SQLServer 2022 Express RTM  
 -データベース管理ツール：Microsoft SQL Server Management Studio 19.0.1
