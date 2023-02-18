@@ -2,11 +2,11 @@
 ___
 ## 開発環境  
 ```
-統合開発環境：JetBrains IntelliJ IDEA 2022.3  
+統合開発環境：JetBrains IntelliJ IDEA Community Editon 2022.3.2  
 言語：Java 17  
 開発SDK：Oracle JDK 17.0.6  
 デスクトップ：Swing  
-データベース：Microsoft SQLServer 2022 Express RTM  
+データベース：Microsoft SQLServer 2022 Express CU1  
 -データベース管理ツール：Microsoft SQL Server Management Studio 19.0.1
 データベース接続：Microsoft JDBC Driver 11.2.3 for SQL Server  
 ```
